@@ -281,4 +281,4 @@ body {
 ![img](pictures/Screenshot%20(152).png)
 
 
-## Finish, Terima Kasih
+## Selesai, Terima Kasih
